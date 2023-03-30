@@ -1,19 +1,16 @@
 {
   "todos": [
     {
-      "id": 1,
       "title": "Grocery shopping",
       "description": "1. A pack of carrots\n2. Eggs",
       "completed": "false"
     },
     {
-      "id": 2,
       "title": "Integration Test",
       "description": "10 tests",
       "completed": "false"
     },
     {
-      "id": 3,
       "title": "Pick up kid from school",
       "description": "",
       "completed": "true"
