@@ -3,17 +3,17 @@
     {
       "title": "Grocery shopping",
       "description": "1. A pack of carrots\n2. Eggs",
-      "completed": "false"
+      "completed": false
     },
     {
       "title": "Integration Test",
       "description": "10 tests",
-      "completed": "false"
+      "completed": false
     },
     {
       "title": "Pick up kid from school",
       "description": "",
-      "completed": "true"
+      "completed": true
     }
   ]
 }
