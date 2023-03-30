@@ -2,7 +2,7 @@
   "todos": [
     {
       "id": 1,
-      "title": "Grocery shooping",
+      "title": "Grocery shopping",
       "description": "1. A pack of carrots\n2. Eggs",
       "completed": "false"
     },
@@ -16,7 +16,7 @@
       "id": 3,
       "title": "Pick up kid from school",
       "description": "",
-      "completed": "tru"
+      "completed": "true"
     }
   ]
 }
