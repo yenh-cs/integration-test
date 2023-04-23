@@ -9,7 +9,7 @@ Frontend will have 4 version
 * Reactjs
 * Svelte
 
-In the mean while the backend is still in backlog, we use the json-server library to help proxy our API on local so that new/updated/deleted todos will indeed be persisted within the db.json file.
+While the backend is still in backlog, we use the json-server library to help proxy our API on local so that new/updated/deleted todos will indeed be persisted within the db.json file.
 
 
 # Start the server
